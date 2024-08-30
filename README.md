@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on: Projects involving computer vision, ROS2, control systems, robotics, machine learning, or deep learning.<br><br>🤝 I’m looking for help with: Practical applications of NumPy for linear algebra and gamified learning approaches.<br><br>🌱 I’m currently learning: Advanced concepts in linear algebra with Python and NumPy, and delving deeper into computer vision, ROS2, control systems, and robotics.<br><br>💬 Ask me about: My experiences with coding projects, data analysis, dynamic programming, or my work in computer vision and robotics.<br><br>⚡ Fun fact: I once built a drone with light detection capabilities and programmed it to navigate and identify objects on an exoplanet!
+👯 Just a student here, diving into the worlds of ROS2, Docker, Linux, computer vision, and robot kinematics—with a little help from my friends C, C++, and Python.<br><br>⚡I promise my GitHub repos will soon be filled with code you can't resist. I’m here to learn, flirt a little with technology, and maybe with you, too. Not a pro yet, but I’m eager to show off what I can do. Let's make some magic with code!
 
 
 ## 🌐 Socials:
